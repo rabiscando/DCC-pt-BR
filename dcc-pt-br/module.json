@@ -1,7 +1,7 @@
 {
   "title": "DCC Dungeon Crawl Classics em pt-BR",
   "description": "Tradução do sistema DCC para o Foundry em português brasileiro",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "languages": [
     {
       "lang": "pt-BR",
