@@ -1,0 +1,26 @@
+{
+  "title": "DCC Dungeon Crawl Classics em pt-BR",
+  "description": "Tradução do sistema DCC para o Foundry em português brasileiro",
+  "version": "0.0.1",
+  "languages": [
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "pt-br.json",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/rabiscando/DCC-pt-BR",
+  "manifest": "https://raw.githubusercontent.com/rabiscando/DCC-pt-BR/main/dcc-pt-br/module.json",
+  "download": "https://raw.githubusercontent.com/rabiscando/DCC-pt-BR/main/dcc-pt-br/archive/main.zip",
+  "id": "dcc-pt-br",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "NinjaDePantufas"
+    }
+  ]
+}
