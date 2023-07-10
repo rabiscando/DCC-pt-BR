@@ -11,8 +11,8 @@
     }
   ],
   "url": "https://github.com/rabiscando/DCC-pt-BR",
-  "manifest": "foundry-dcc-pt-br/raw/main/module.json",
-  "download": "foundry-dcc-pt-br/archive/main.zip",
+  "manifest": "https://raw.githubusercontent.com/rabiscando/DCC-pt-BR/main/dcc-pt-br/module.json",
+  "download": "https://raw.githubusercontent.com/rabiscando/DCC-pt-BR/main/dcc-pt-br/archive/main.zip",
   "id": "dcc-pt-br",
   "compatibility": {
     "minimum": "10",
