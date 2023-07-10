@@ -1,6 +1,3 @@
-# DCC-pt-BR
-Tradução do sistema DCC para o Foundry em português brasileiro
-
 # dcc-pt-BR
 
 DCC Dungeon Crawl Classics game system brazilian portuguese Translation for Foundry Virtual TableTop.
@@ -18,10 +15,11 @@ Tradução do sistema DCC para o Foundry em português brasileiro
 Contribuintes: NinjaDePantufas
 
 ## Changelogs
-### 0.0.1
-- Validando a primeira versão deste módulo online
 ### 0.0.2
+- Validando a primeira versão deste módulo online
+### 0.0.3
 - traduzir todos os textos do módulo no sistema DCC
+### 0.0.4
 - corrigir erros ortográficos
+### 0.0.5
 - averiguar sintaxe e glossário do sistema
-
