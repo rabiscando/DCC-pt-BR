@@ -17,7 +17,7 @@ Contribuintes: NinjaDePantufas
 ## Changelogs
 ### 0.0.2
 - Validando a primeira versão deste módulo online
-### 0.0.3
+### 0.0.3.1
 - traduzir todos os textos do módulo no sistema DCC
 ### 0.0.4
 - corrigir erros ortográficos
